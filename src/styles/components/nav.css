@@ -1,0 +1,29 @@
+.menu {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 150px;
+  overflow-y: auto;
+  background-color: black;
+}
+
+.menu .menu-item {
+  border: 1px solid #191718;
+}
+
+.menu .menu-item:first-child a{
+  color: white;
+}
+
+.menu .menu-item a {
+  display: block;
+  padding: 14px 16px;
+  color: #aaaaaa;
+  font-weight: 700;
+}
+
+.menu .menu-item a:hover {
+  background-color: #5C5C5C;
+  color: white;
+}

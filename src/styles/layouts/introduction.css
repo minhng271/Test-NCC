@@ -1,0 +1,9 @@
+.introduction {
+  background-color: #efefef;
+  padding: 38px 269px;
+}
+
+.introduction .title {
+  font-size: 18px;
+  margin-bottom: 18px;
+}
